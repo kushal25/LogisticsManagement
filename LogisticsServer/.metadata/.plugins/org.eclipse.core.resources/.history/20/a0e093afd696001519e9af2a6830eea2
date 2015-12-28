@@ -1,0 +1,111 @@
+package com.sjsu.CMPE281;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.json.JSONObject;
+
+/**
+ * Servlet implementation class SensorInformationServlet
+ */
+@WebServlet("/SensorInformationServlet")
+public class SensorInformationServlet extends HttpServlet
+{
+	private static final long serialVersionUID = 1L;
+
+	/**
+	 * @see HttpServlet#HttpServlet()
+	 */
+	public SensorInformationServlet()
+	{
+		super();
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse
+	 *      response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
+	{
+		doPost(request, response);
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse
+	 *      response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
+	{
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		try
+		{
+			String jsonString = request.getParameter("req");
+			JSONObject json = new JSONObject(jsonString);
+			out.println("Sensor::" + json.toString());
+			
+			for (int i = 0;; i++)
+			{
+				JSONObject data = json.getJSONObject("Sensor-" + i);
+				out.println("current index:: " + i + "data:: " + data);
+				if (data == null)
+				{
+					break;
+				}
+				long controlNodeId = data.getLong("ControlNodeId");
+				String truckID = data.getString("truckId");
+				long sensorNodeId = data.getLong("SensorNodeId");
+				long sensorId = data.getLong("SensorId");
+				int sensorType = data.getInt("SensorType");
+				String sensorData = data.getString("SensorData");
+				long timeStamp = data.getLong("Timestamp");
+				
+				// save to db
+				Class.forName("com.mysql.jdbc.Driver");
+				Connection con = (Connection) DriverManager.getConnection("jdbc:mysql://mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com:3306/cmpe281", "cmpe281", "admin123");
+				if (!con.isClosed())
+				{
+					out.println("Connection Established");
+					PreparedStatement ps = ((java.sql.Connection) con).prepareStatement("INSERT INTO SENSOR_DATA(SENSOR_ID, SENSOR_NODE_ID, SENSOR_CONTROL_NODE_ID, TRUCK_ID, TYPE, SENSOR_DATA, TIME_STAMP) VALUES (?,?,?,?,?,?,?)");
+
+					out.println("sensorId:: " + sensorId);
+					ps.setLong(1, sensorId);
+					out.println("sensorNodeId:: " + sensorNodeId);
+					ps.setLong(2, sensorNodeId);
+					out.println("controlNodeId:: " + controlNodeId);
+					ps.setLong(3, controlNodeId);
+					out.println("truckID:: " + truckID);
+					ps.setString(4, truckID);
+					out.println("sensorType:: " + sensorType);
+					ps.setInt(5, sensorType);
+					out.println("sensorData:: " + sensorData);
+					ps.setString(6, sensorData);
+					out.println("timeStamp:: " + timeStamp);
+					ps.setLong(7, timeStamp);
+					ps.execute();
+
+					out.println("Inserted");
+					out.close();
+				} else
+				{
+					out.println("Connection failed");
+				}
+			}
+
+		} catch (Exception e1)
+		{
+			out.println(e1);
+		}
+
+		out.close();
+	}
+}

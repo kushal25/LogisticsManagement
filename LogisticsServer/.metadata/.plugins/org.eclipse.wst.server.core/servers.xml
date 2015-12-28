@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server accountId="d6017eeb-9bd4-4d2b-b924-066953c10194" applicationDescription="" applicationName="QuickReaction" auto-publish-setting="1" environmentDescription="Production Environment" environmentName="Prod-Env" environmentTier="WebServer" environmentType="Load Balanced Web Server Environment" hostname="AWS Elastic Beanstalk - US West (N. California)" id="Prod-Env at AWS Elastic Beanstalk - US West (N. California)" incrementalDeployment="false" instanceRoleName="aws-elasticbeanstalk-ec2-role" name="Prod-Env at AWS Elastic Beanstalk - US West (N. California)" regionId="us-west-1" runtime-id="Apache Tomcat v8.0 in AWS Elastic Beanstalk" server-type="com.amazonaws.eclipse.elasticbeanstalk.servers.tomcat8" server-type-id="com.amazonaws.eclipse.elasticbeanstalk.servers.tomcat8" serviceRoleName="aws-elasticbeanstalk-service-role" skipIamRoleAndInstanceProfileCreation="false" solutionStack="64bit Amazon Linux 2015.09 v2.0.4 running Tomcat 8 Java 8" start-timeout="600" stop-timeout="800" timestamp="265">
+    <list key="modules" value0="QuickReaction::org.eclipse.jst.jee.server:QuickReaction::jst.web::3.0"/>
+  </server>
+</servers>
