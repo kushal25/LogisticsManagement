@@ -1,0 +1,1 @@
+var alertInventory = [{"TRUCK_ID":"IL928725","Old_Demand":"120","New_Demand":"200","Old_Destination":"MidWest","New_Destination":"NorthEast"}]

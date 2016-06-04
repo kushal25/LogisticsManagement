@@ -1,0 +1,582 @@
+[28-Nov-2015 20:25:24 America/Denver] PHP Notice:  Undefined index: fn in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 60
+[28-Nov-2015 20:25:24 America/Denver] PHP Notice:  Undefined index: ln in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 61
+[28-Nov-2015 20:25:24 America/Denver] PHP Notice:  Undefined index: Email in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 62
+[28-Nov-2015 21:06:47 America/Denver] PHP Notice:  Undefined index: fn in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 60
+[28-Nov-2015 21:06:47 America/Denver] PHP Notice:  Undefined index: ln in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 61
+[28-Nov-2015 21:06:47 America/Denver] PHP Notice:  Undefined index: Email in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 62
+[28-Nov-2015 21:12:34 America/Denver] PHP Notice:  Use of undefined constant contractperiod - assumed 'contractperiod' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 81
+[28-Nov-2015 21:12:34 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 112
+[28-Nov-2015 21:12:34 America/Denver] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 120
+[28-Nov-2015 21:27:00 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 112
+[28-Nov-2015 21:27:00 America/Denver] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 120
+[28-Nov-2015 21:54:41 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 123
+[28-Nov-2015 22:02:16 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 119
+[28-Nov-2015 22:05:29 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 120
+[28-Nov-2015 22:30:54 America/Denver] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 79
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: firstname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 113
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 114
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: phone in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 115
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 116
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: companyname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 117
+[28-Nov-2015 22:50:56 America/Denver] PHP Notice:  Undefined index: contractperiod in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 118
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: firstname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 113
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 114
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: phone in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 115
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 116
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: companyname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 117
+[28-Nov-2015 22:56:41 America/Denver] PHP Notice:  Undefined index: contractperiod in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 118
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: firstname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 113
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 114
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: phone in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 115
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 116
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: companyname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 117
+[29-Nov-2015 02:53:27 America/Denver] PHP Notice:  Undefined index: contractperiod in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 118
+[29-Nov-2015 19:22:32 America/Denver] PHP Notice:  Undefined index: email in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 75
+[29-Nov-2015 19:22:32 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 76
+[29-Nov-2015 19:23:22 America/Denver] PHP Notice:  Undefined index: email in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 75
+[29-Nov-2015 19:23:22 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 76
+[29-Nov-2015 19:24:04 America/Denver] PHP Notice:  Undefined index: email in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 75
+[29-Nov-2015 19:24:04 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 76
+[29-Nov-2015 19:26:41 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 68
+[29-Nov-2015 19:26:41 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 69
+[29-Nov-2015 19:36:17 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 75
+[29-Nov-2015 19:36:17 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 76
+[29-Nov-2015 19:46:06 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 68
+[29-Nov-2015 19:46:06 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 69
+[29-Nov-2015 19:48:11 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 128
+[29-Nov-2015 19:48:11 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login2.php on line 129
+[29-Nov-2015 19:52:24 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 68
+[29-Nov-2015 19:53:20 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 68
+[29-Nov-2015 19:53:20 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 69
+[29-Nov-2015 19:57:17 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 59
+[29-Nov-2015 19:57:17 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 60
+[29-Nov-2015 19:57:44 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 59
+[29-Nov-2015 19:59:16 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 119
+[29-Nov-2015 19:59:16 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 120
+[29-Nov-2015 20:10:34 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 119
+[29-Nov-2015 20:10:34 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 120
+[29-Nov-2015 20:13:28 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 135
+[29-Nov-2015 20:15:19 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 143
+[29-Nov-2015 20:24:57 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 119
+[29-Nov-2015 20:24:57 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 120
+[29-Nov-2015 20:27:49 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 143
+[29-Nov-2015 20:30:46 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 143
+[29-Nov-2015 20:34:45 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 143
+[29-Nov-2015 20:42:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 144
+[29-Nov-2015 20:44:48 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 144
+[29-Nov-2015 20:46:41 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 146
+[29-Nov-2015 20:50:22 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 146
+[29-Nov-2015 20:52:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 146
+[29-Nov-2015 20:53:31 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 147
+[29-Nov-2015 21:01:23 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 147
+[29-Nov-2015 21:12:50 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php:103) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 147
+[29-Nov-2015 21:34:26 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 61
+[29-Nov-2015 21:34:26 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 62
+[29-Nov-2015 22:13:57 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com:3306' (0) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 149
+[29-Nov-2015 22:28:12 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 158
+[29-Nov-2015 22:28:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 158
+[29-Nov-2015 22:28:16 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 158
+[29-Nov-2015 22:28:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 158
+[29-Nov-2015 22:28:33 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 158
+[29-Nov-2015 22:30:53 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 161
+[29-Nov-2015 22:30:55 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 161
+[29-Nov-2015 22:59:57 America/Denver] PHP Notice:  Undefined variable: query1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 178
+[29-Nov-2015 22:59:57 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 178
+[29-Nov-2015 22:59:57 America/Denver] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:01:50 America/Denver] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:02:32 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:02:35 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:03:11 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:03:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:04:34 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 179
+[29-Nov-2015 23:05:11 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 180
+[29-Nov-2015 23:05:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 180
+[30-Nov-2015 02:06:38 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:06:41 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:06:59 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:07:00 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:07:18 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:20:37 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:20:39 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:21:04 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:21:25 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:23:19 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:24:00 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:24:11 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:24:13 America/Denver] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 151
+[30-Nov-2015 02:29:05 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 184
+[30-Nov-2015 02:30:15 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 184
+[30-Nov-2015 02:31:03 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 185
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: firstname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 113
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 114
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: phone in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 115
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 116
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: companyname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 117
+[30-Nov-2015 14:03:23 America/Denver] PHP Notice:  Undefined index: contractperiod in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 118
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: firstname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 86
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 87
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: phone in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 88
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 89
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: companyname in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 90
+[30-Nov-2015 14:11:33 America/Denver] PHP Notice:  Undefined index: contractperiod in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/succ.php on line 91
+[30-Nov-2015 14:15:50 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 61
+[30-Nov-2015 14:15:50 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 62
+[30-Nov-2015 14:16:03 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 61
+[30-Nov-2015 14:16:03 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 62
+[30-Nov-2015 14:16:57 America/Denver] PHP Notice:  Undefined index: emailaddress in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 61
+[30-Nov-2015 14:16:57 America/Denver] PHP Notice:  Undefined index: password in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/login-validation.php on line 62
+[02-Dec-2015 17:52:11 America/Denver] PHP Notice:  Undefined variable: rows2 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 331
+[02-Dec-2015 17:52:11 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 332
+[02-Dec-2015 17:53:24 America/Denver] PHP Notice:  Undefined variable: rows2 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 331
+[02-Dec-2015 17:53:24 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 332
+[02-Dec-2015 18:36:22 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 203
+[02-Dec-2015 18:36:29 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 203
+[02-Dec-2015 18:37:09 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 203
+[02-Dec-2015 19:59:08 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 197
+[02-Dec-2015 19:59:41 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 197
+[02-Dec-2015 20:02:51 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 197
+[02-Dec-2015 20:04:34 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 197
+[02-Dec-2015 20:47:43 America/Denver] PHP Notice:  Undefined variable: query_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 20:47:43 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 20:47:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 217
+[02-Dec-2015 21:08:22 America/Denver] PHP Notice:  Undefined variable: query_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:08:22 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:08:22 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 217
+[02-Dec-2015 21:11:38 America/Denver] PHP Notice:  Undefined variable: query_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:11:38 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:11:38 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 217
+[02-Dec-2015 21:11:42 America/Denver] PHP Notice:  Undefined variable: query_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:11:42 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 214
+[02-Dec-2015 21:11:42 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 217
+[02-Dec-2015 21:12:16 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:12:23 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:12:30 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:12:36 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:12:47 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:12:55 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:02 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:09 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:16 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:23 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:30 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:37 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:41 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:45 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:51 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:13:58 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:05 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:12 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:19 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:25 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:33 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:40 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:47 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:14:51 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[02-Dec-2015 21:16:04 America/Denver] PHP Notice:  Undefined index: SENDOR_NODE_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 219
+[04-Dec-2015 16:25:32 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:37 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:50 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:55 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:56 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:56 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:56 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:25:57 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:26:17 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:27:14 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:27:23 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:27:24 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 120
+[04-Dec-2015 16:38:26 America/Denver] PHP Notice:  Undefined variable: result in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 86
+[04-Dec-2015 16:45:44 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 93
+[04-Dec-2015 16:46:31 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 91
+[04-Dec-2015 16:46:33 America/Denver] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 91
+[04-Dec-2015 16:48:02 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 128
+[04-Dec-2015 16:48:10 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 128
+[04-Dec-2015 16:48:13 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 128
+[04-Dec-2015 16:51:42 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23398450 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 16:51:42 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23399402 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 16:52:35 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23536413 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 16:58:04 America/Denver] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 96
+[04-Dec-2015 16:58:08 America/Denver] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 96
+[04-Dec-2015 16:58:10 America/Denver] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 96
+[04-Dec-2015 16:58:59 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24346120 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 17:09:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 101
+[04-Dec-2015 17:09:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 101
+[04-Dec-2015 17:13:08 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25039396 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 17:14:32 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25179050 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 339
+[04-Dec-2015 17:18:21 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 92
+[04-Dec-2015 17:20:49 America/Denver] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 87
+[04-Dec-2015 17:21:01 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 25938765 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 329
+[04-Dec-2015 17:21:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 111
+[04-Dec-2015 17:22:43 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 111
+[04-Dec-2015 17:25:44 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 150
+[04-Dec-2015 17:25:47 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 150
+[04-Dec-2015 17:26:06 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 150
+[04-Dec-2015 17:26:20 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 150
+[04-Dec-2015 17:26:22 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 150
+[04-Dec-2015 17:26:54 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 142
+[04-Dec-2015 17:28:26 America/Denver] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 142
+[04-Dec-2015 17:28:58 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 103
+[04-Dec-2015 17:29:27 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27127790 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:36:24 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27845622 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:36:37 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27863859 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:37:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 150
+[04-Dec-2015 17:37:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 150
+[04-Dec-2015 17:37:23 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27787230 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:38:07 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27525168 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:39:07 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27000896 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 333
+[04-Dec-2015 17:41:09 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 103
+[04-Dec-2015 17:43:48 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 104
+[04-Dec-2015 17:44:10 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23855117 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 329
+[04-Dec-2015 17:45:39 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23068677 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 329
+[04-Dec-2015 17:46:19 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22544382 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 322
+[04-Dec-2015 17:49:19 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 115
+[04-Dec-2015 17:52:14 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20185043 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 322
+[04-Dec-2015 17:53:15 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15466471 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 323
+[04-Dec-2015 17:53:26 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15466471 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 323
+[04-Dec-2015 17:54:54 America/Denver] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 100
+[04-Dec-2015 17:56:13 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 13893745 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 326
+[04-Dec-2015 17:57:13 America/Denver] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 101
+[04-Dec-2015 17:57:18 America/Denver] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 101
+[04-Dec-2015 17:57:28 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 13369349 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 326
+[04-Dec-2015 18:03:29 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11272272 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 324
+[04-Dec-2015 18:03:40 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11010032 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 324
+[04-Dec-2015 18:05:22 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 9961506 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 324
+[04-Dec-2015 18:05:32 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 9961506 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 324
+[04-Dec-2015 18:20:39 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4194362 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 325
+[04-Dec-2015 18:22:07 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3669977 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 324
+[04-Dec-2015 18:23:33 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[04-Dec-2015 18:23:33 America/Denver] PHP Notice:  Undefined variable: rows3 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 278
+[04-Dec-2015 18:23:33 America/Denver] PHP Notice:  Undefined variable: rows_trucks in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 281
+[04-Dec-2015 18:24:09 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[04-Dec-2015 18:24:09 America/Denver] PHP Notice:  Undefined variable: rows3 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 278
+[04-Dec-2015 18:24:09 America/Denver] PHP Notice:  Undefined variable: rows_trucks in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 281
+[04-Dec-2015 18:26:27 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[04-Dec-2015 18:31:45 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[04-Dec-2015 18:32:08 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[04-Dec-2015 18:33:31 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 255
+[04-Dec-2015 18:34:28 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 255
+[04-Dec-2015 18:36:45 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 255
+[04-Dec-2015 18:40:54 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 256
+[04-Dec-2015 18:41:39 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 256
+[04-Dec-2015 18:42:48 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 256
+[04-Dec-2015 18:44:18 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:44:51 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 262
+[04-Dec-2015 18:45:43 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:46:11 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:46:32 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:47:17 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:47:32 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:48:36 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:48:48 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:49:07 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:49:35 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:50:15 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:50:57 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:51:35 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:53:37 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:53:53 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 259
+[04-Dec-2015 18:55:30 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:55:54 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:56:08 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:56:27 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:56:44 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:56:59 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:57:17 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:57:33 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 18:57:56 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 251
+[04-Dec-2015 19:18:31 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 252
+[04-Dec-2015 19:21:35 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 77 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 215
+[04-Dec-2015 19:23:45 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 77 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 215
+[04-Dec-2015 19:27:46 America/Denver] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 77 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 215
+[04-Dec-2015 19:52:41 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 188
+[05-Dec-2015 01:19:09 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 100
+[05-Dec-2015 01:20:03 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 01:20:10 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 01:22:15 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 101
+[05-Dec-2015 01:24:06 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 01:24:06 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 101
+[05-Dec-2015 01:24:37 America/Denver] PHP Fatal error:  Unsupported operand types in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 01:24:57 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 01:24:57 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 101
+[05-Dec-2015 03:01:56 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 99
+[05-Dec-2015 03:01:56 America/Denver] PHP Notice:  Undefined variable: rows1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 101
+[05-Dec-2015 03:06:22 America/Denver] PHP Notice:  Undefined variable: result in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 100
+[05-Dec-2015 03:06:22 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 100
+[05-Dec-2015 03:06:51 America/Denver] PHP Notice:  Undefined index: distinct TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 102
+[05-Dec-2015 03:07:18 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 102
+[05-Dec-2015 03:08:25 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 105
+[05-Dec-2015 03:08:41 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 105
+[05-Dec-2015 03:27:26 America/Denver] PHP Notice:  Undefined index: distinct TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 102
+[05-Dec-2015 03:35:30 America/Denver] PHP Notice:  Undefined variable: rowt in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 82
+[05-Dec-2015 14:24:19 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 368
+[05-Dec-2015 14:27:15 America/Denver] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 368
+[05-Dec-2015 14:27:17 America/Denver] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 368
+[05-Dec-2015 16:58:45 America/Denver] PHP Fatal error:  Out of memory (allocated 644612096) (tried to allocate 87 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[05-Dec-2015 16:59:45 America/Denver] PHP Fatal error:  Out of memory (allocated 644612096) (tried to allocate 84 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[05-Dec-2015 17:02:24 America/Denver] PHP Fatal error:  Out of memory (allocated 643563520) (tried to allocate 2 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[05-Dec-2015 17:02:24 America/Denver] PHP Fatal error:  Out of memory (allocated 643563520) (tried to allocate 2 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 247
+[05-Dec-2015 17:03:12 America/Denver] PHP Fatal error:  Out of memory (allocated 643563520) (tried to allocate 72 bytes) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 248
+[05-Dec-2015 18:54:28 America/Denver] PHP Notice:  Undefined variable: result_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 96
+[05-Dec-2015 18:54:28 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 96
+[05-Dec-2015 19:29:21 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 159
+[05-Dec-2015 19:29:21 America/Denver] PHP Notice:  Undefined variable: rows2 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 197
+[05-Dec-2015 19:29:21 America/Denver] PHP Notice:  Undefined variable: rows3 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 200
+[05-Dec-2015 19:29:21 America/Denver] PHP Notice:  Undefined variable: rows_trucks in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 203
+[05-Dec-2015 19:32:01 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 95
+[05-Dec-2015 19:33:37 America/Denver] PHP Notice:  Undefined variable: rows_table in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 95
+[05-Dec-2015 19:47:45 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/planning_data_research.php on line 92
+[05-Dec-2015 20:01:38 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:01:41 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:01:44 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:01:45 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:02:10 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:11:07 America/Denver] PHP Parse error:  syntax error, unexpected 'MidWest' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 391
+[05-Dec-2015 20:12:05 America/Denver] PHP Notice:  Undefined variable: rows_mw in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 419
+[05-Dec-2015 20:13:23 America/Denver] PHP Notice:  Undefined variable: rows_mw in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 419
+[05-Dec-2015 20:14:06 America/Denver] PHP Notice:  Undefined variable: rows_mw in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 420
+[05-Dec-2015 20:15:02 America/Denver] PHP Notice:  Undefined variable: rows_mw in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 419
+[05-Dec-2015 20:27:00 America/Denver] PHP Notice:  Undefined variable: i_ne in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 409
+[05-Dec-2015 20:27:00 America/Denver] PHP Notice:  Undefined variable: row_mso in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 448
+[05-Dec-2015 20:34:56 America/Denver] PHP Notice:  Undefined variable: ROW in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 401
+[05-Dec-2015 20:36:34 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 82
+[05-Dec-2015 20:38:00 America/Denver] PHP Parse error:  syntax error, unexpected '$row_mw2' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 20:38:31 America/Denver] PHP Parse error:  syntax error, unexpected '$row_mw2' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 20:38:45 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 75
+[05-Dec-2015 20:38:50 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 75
+[05-Dec-2015 20:40:50 America/Denver] PHP Parse error:  syntax error, unexpected '$row_mw2' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 20:41:17 America/Denver] PHP Parse error:  syntax error, unexpected '$row_mw2' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 403
+[05-Dec-2015 20:41:53 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:41:56 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:43:44 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:44:18 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:45:33 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:45:36 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:46:38 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:49:16 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:49:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:49:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:49:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:50:02 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:50:40 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:51:40 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:51:42 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:52:08 America/Denver] PHP Notice:  Undefined variable: rows in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 20:53:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 20:53:45 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:55:06 America/Denver] PHP Parse error:  syntax error, unexpected 'Y' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 76
+[05-Dec-2015 20:55:29 America/Denver] PHP Notice:  Undefined variable: rows in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 97
+[05-Dec-2015 20:55:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 82
+[05-Dec-2015 21:01:47 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:03:44 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:05:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 374
+[05-Dec-2015 21:06:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:06:16 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:06:17 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:06:18 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:06:19 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:07:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:07:06 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 82
+[05-Dec-2015 21:07:06 America/Denver] PHP Notice:  Undefined variable: result1 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 89
+[05-Dec-2015 21:07:06 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 89
+[05-Dec-2015 21:07:15 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 406
+[05-Dec-2015 21:09:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 21:14:13 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 80
+[05-Dec-2015 21:14:16 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 401
+[05-Dec-2015 21:15:03 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 401
+[05-Dec-2015 21:15:15 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 401
+[05-Dec-2015 21:16:16 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 21:16:21 America/Denver] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 402
+[05-Dec-2015 21:16:39 America/Denver] PHP Notice:  Undefined index: DEMAND in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 424
+[05-Dec-2015 21:16:58 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 80
+[05-Dec-2015 21:18:32 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 80
+[05-Dec-2015 21:18:57 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 81
+[05-Dec-2015 21:23:40 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 82
+[05-Dec-2015 21:39:55 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:39:55 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 101
+[05-Dec-2015 21:40:42 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:40:42 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 101
+[05-Dec-2015 21:40:48 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:40:49 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 101
+[05-Dec-2015 21:41:46 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:41:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 101
+[05-Dec-2015 21:43:44 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:43:44 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 101
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Use of undefined constant i - assumed 'i' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: i in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Use of undefined constant i - assumed 'i' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: i in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Use of undefined constant i - assumed 'i' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: i in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Use of undefined constant i - assumed 'i' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: i in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Use of undefined constant i - assumed 'i' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Notice:  Undefined index: i in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 86
+[05-Dec-2015 21:44:29 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 102
+[05-Dec-2015 21:46:21 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:46:21 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 103
+[05-Dec-2015 21:47:24 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 85
+[05-Dec-2015 21:47:24 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 103
+[05-Dec-2015 21:49:11 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 84
+[05-Dec-2015 21:49:11 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 104
+[05-Dec-2015 21:50:07 America/Denver] PHP Notice:  Undefined index: TRUCK_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 84
+[05-Dec-2015 21:50:07 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 104
+[05-Dec-2015 21:52:45 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 487
+[05-Dec-2015 21:52:47 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 487
+[05-Dec-2015 21:52:58 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 487
+[05-Dec-2015 21:53:03 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 487
+[05-Dec-2015 21:54:09 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 100
+[05-Dec-2015 21:56:58 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 95
+[05-Dec-2015 21:57:17 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 97
+[05-Dec-2015 21:59:39 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 100
+[06-Dec-2015 17:00:06 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 98
+[06-Dec-2015 17:02:42 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 98
+[06-Dec-2015 17:51:50 America/Denver] PHP Parse error:  syntax error, unexpected '"' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 97
+[06-Dec-2015 17:54:45 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 99
+[06-Dec-2015 17:55:38 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/alerts.php on line 98
+[06-Dec-2015 21:24:44 America/Denver] PHP Notice:  Undefined index: DEMAND in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 467
+[06-Dec-2015 21:34:18 America/Denver] PHP Notice:  Undefined index: DEMAND in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 467
+[07-Dec-2015 01:24:30 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 466
+[07-Dec-2015 01:26:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 466
+[07-Dec-2015 03:02:12 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 03:08:24 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 03:10:55 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 03:11:00 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 03:11:09 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 03:42:48 America/Denver] PHP Notice:  Undefined variable: rows_control in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 499
+[07-Dec-2015 03:42:50 America/Denver] PHP Notice:  Undefined variable: rows_control in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 499
+[07-Dec-2015 03:56:43 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:19:39 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:23:15 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:23:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:23:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:29:58 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:45:57 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:45:59 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:47:06 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:48:25 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:48:28 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:48:30 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:50:24 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:50:55 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:52:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:52:47 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 04:52:49 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:07:59 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:09:00 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:15:05 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:15:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:15:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:16:28 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:17:34 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:26:48 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 14:27:29 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 17:12:10 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 19:55:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 19:55:22 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 20:01:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 19
+[07-Dec-2015 23:58:11 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[07-Dec-2015 23:58:21 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[07-Dec-2015 23:58:49 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[07-Dec-2015 23:59:52 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:00:05 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:03:34 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:03:56 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:05:18 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:06:45 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 16
+[08-Dec-2015 00:08:57 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:10:06 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:13:53 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:14:30 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:17:33 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:18:12 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:19:12 America/Denver] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:23:38 America/Denver] PHP Notice:  Undefined index: SENSOR_STATUS in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:23:39 America/Denver] PHP Notice:  Undefined index: SENSOR_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:23:39 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:24:44 America/Denver] PHP Notice:  Undefined index: SENSOR_STATUS in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:24:44 America/Denver] PHP Notice:  Undefined index: SENSOR_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:24:44 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:26:48 America/Denver] PHP Notice:  Undefined index: SENSOR_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 8
+[08-Dec-2015 00:26:48 America/Denver] PHP Notice:  Undefined index: SENSOR_STATUS in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:26:48 America/Denver] PHP Notice:  Undefined index: SENSOR_ID in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 17
+[08-Dec-2015 00:26:48 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:28:12 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:28:45 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:29:14 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:31:18 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 00:32:20 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 01:04:25 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 02:00:46 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 02:38:53 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 02:44:11 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 03:42:13 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 03:43:01 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 03:45:34 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 148
+[08-Dec-2015 03:46:07 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 148
+[08-Dec-2015 03:46:33 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 148
+[08-Dec-2015 03:46:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 148
+[08-Dec-2015 03:47:52 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 14:04:39 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 14:35:38 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 14:42:16 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 14:44:41 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 14:45:15 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/statusChange.php on line 22
+[08-Dec-2015 15:18:04 America/Denver] PHP Notice:  Undefined variable: rows2 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 799
+[08-Dec-2015 15:18:04 America/Denver] PHP Notice:  Undefined variable: rows3 in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 802
+[08-Dec-2015 15:18:04 America/Denver] PHP Notice:  Undefined variable: rows_trucks in /home4/pruthvin/public_html/QuickReaction/Theme-DeepBlueAdmin/index.php on line 805
+[08-Dec-2015 17:14:57 America/Denver] PHP Notice:  Undefined variable: dataRow in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 139
+[08-Dec-2015 17:16:18 America/Denver] PHP Notice:  Undefined variable: dataRow in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 139
+[08-Dec-2015 17:17:20 America/Denver] PHP Notice:  Undefined variable: dataRow in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 139
+[08-Dec-2015 17:34:06 America/Denver] PHP Notice:  Undefined variable: rows in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 139
+[08-Dec-2015 17:34:40 America/Denver] PHP Notice:  Undefined variable: rows in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 139
+[08-Dec-2015 17:55:42 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 18:08:13 America/Denver] PHP Parse error:  syntax error, unexpected 'TRUCK_ID' (T_STRING) in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 104
+[08-Dec-2015 18:17:00 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:17:03 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:17:15 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:17:30 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:17:34 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:17:59 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:18:04 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:18:29 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:18:33 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:18:58 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:19:03 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:19:28 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:19:33 America/Denver] PHP Notice:  Array to string conversion in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 507
+[08-Dec-2015 18:28:17 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 18:35:04 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 18:42:50 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 19:26:51 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 19:49:13 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 20:44:52 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[08-Dec-2015 22:07:50 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[11-Dec-2015 02:29:32 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 132
+[11-Dec-2015 02:29:42 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 132
+[11-Dec-2015 14:01:38 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[11-Dec-2015 14:07:33 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[11-Dec-2015 14:13:54 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[11-Dec-2015 14:15:03 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[11-Dec-2015 14:27:59 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[15-Dec-2015 11:13:22 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[15-Dec-2015 12:01:16 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:12:44 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:12:52 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:13:12 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:13:21 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:13:21 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[16-Dec-2015 15:13:21 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home4/pruthvin/public_html/QuickReaction/SupplyChain/statusChange.php on line 22
+[05-Feb-2016 14:40:19 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com' (0) in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 76
+[18-Feb-2016 09:40:58 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com' (0) in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 77
+[18-Feb-2016 09:40:58 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 79
+[18-Feb-2016 09:40:58 America/Denver] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home4/pruthvin/public_html/QuickReaction/SupplyChain/alerts.php on line 82
+[18-Feb-2016 09:41:58 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com' (0) in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 76
+[27-Mar-2016 12:26:50 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'mysql-instance1.cfa3qxsmwzic.us-west-1.rds.amazonaws.com' (0) in /home4/pruthvin/public_html/QuickReaction/SupplyChain/index.php on line 76

@@ -1,0 +1,1 @@
+var alertsWeight = [{"TRUCK_ID":"MS669348","EXPECTED_VALUE":"40","SENSOR_DATA":"23.3"}]

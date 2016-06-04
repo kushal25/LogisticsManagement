@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Deep Blue Admin</title>
+
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/local.css" />
+
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>   
+
+      <style>
+
+       
+
+    </style>
+</head>
+<body>
+
+    <div id="wrapper">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+         <div class="row text-center">
+            		<h2 style="color:white">Quick Reaction - Supply Chain Inventory Management</h2>
+         </div>
+         <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+         </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="fa fa-list-ol"><a href="login2.php"> Sign In</a></li>
+                    <li class="active"><a href="register.html"> Register </a></li>           
+                </ul>
+              
+            </div>
+        </nav>
+
+       <div>
+        <div>
+        <div class="row text-center">
+            <h2>New Registration</h2>
+        </div>
+    
+   <form role="form" action="succ.php" method="post" class="login-form">
+        <div>
+            <label for="firstname" class="col-md-2">
+                First Name:
+            </label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" name="firstname" placeholder="Enter First Name">
+            </div>
+            <div class="col-md-1">
+                <i class="fa fa-lock fa-2x"></i>
+            </div>
+        </div>        
+        <div>
+            <label for="password" class="col-md-2">
+                Password:
+            </label>
+            <div class="col-md-9">
+                <input type="password" class="form-control" name="password" placeholder="Enter Password">
+                <p class="help-block">
+                    Min: 6 characters (Alphanumeric only)
+                </p>
+            </div>
+             <div class="col-md-1">
+                <i class="fa fa-lock fa-2x"></i>
+            </div>
+        </div>
+		<div>
+            <label for="phone" class="col-md-2">
+                Phone:
+            </label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" name="phone" placeholder="Enter Phone Number">
+            </div>
+             <div class="col-md-1">
+                <i class="fa fa-lock fa-2x"></i>
+            </div>
+        </div>
+         <div>
+            <label for="emailaddress" class="col-md-2">
+                Email address:
+            </label>
+            <div class="col-md-9">
+                <input type="email" class="form-control" name="emailaddress" placeholder="Enter email address">
+                <p class="help-block">
+                    Example: yourname@domain.com
+                </p>
+            </div>
+             <div class="col-md-1">
+                <i class="fa fa-lock fa-2x"></i>
+            </div>
+        </div>
+		<div>
+            <label for="Company Name" class="col-md-2">
+                Company Name:
+            </label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" name="companyname" placeholder="Enter Company Name">
+            </div>
+             <div class="col-md-1">
+                <i class="fa fa-lock fa-2x"></i>
+            </div>
+        </div> 
+        <div>
+            <label for="Contract Period" class="col-md-2">
+                Contract Period:
+            </label>
+            <div class="col-md-9">
+                <select name="contractperiod" id="contractperiod" class="form-control">
+                    <option>--Please Select Duration(Years)--</option>
+                    <option>2 </option>
+                    <option>3 </option>
+                    <option>4 </option>
+                    <option>5 </option>
+                </select>
+            </div>            
+        </div>
+        <div>
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-10">
+                <label>
+                    <input type="checkbox"> &nbsp I hereby accept the terms and conditions for using this site</label>
+            </div>            
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-10">
+                <button type="submit" class="btn btn-info">
+                    Register
+                </button>
+            </div>
+        </div>
+  </form>
+  
+    </div>  
+    </div>
+</body>
+</html>

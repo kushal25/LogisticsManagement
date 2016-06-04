@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link id="themecss" rel="stylesheet" type="text/css" href="//www.shieldui.com/shared/components/latest/css/light/all.min.css" />
+    <script type="text/javascript" src="//www.shieldui.com/shared/components/latest/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="//www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+    <script src="http://pruthvi-nadunooru.name/QuickReaction/Theme-DeepBlueAdmin/control.js"></script>
+</head>
+<body class="theme-light">
+<aside>
+    <h3>Edit Selected Item</h3>
+    <label for="SENSOR_ID">ID</label>
+    <input id="SENSOR_ID" type="text">
+    <br><br>
+    <label for="SENSOR_NODE_ID">NodeId</label>
+    <input id="SENSOR_NODE_ID" type="text">
+    <br><br>
+    <label for="SENSOR_CONTROL_NODE_ID">ControlNodeId</label>
+    <input id="SENSOR_CONTROL_NODE_ID" type="text">
+    <br><br>
+    <label for="TRUCK_ID">TRUCK_ID</label>
+    <input id="TRUCK_ID" type="text">
+    <br><br>
+    <label for="TYPE">TYPE</label>
+    <input id="TYPE" type="text">
+    <br><br>
+    <label for="SENSOR_STATUS">STATUS</label>
+    <input id="SENSOR_STATUS" type="checkbox">
+    <br>
+    <div style="text-align: center;">
+        <button id="save">
+        Save</button>
+    </div>
+</aside>
+<div id="grid"></div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#grid").shieldGrid({
+            dataSource: {
+                data: control,
+                schema: {
+                    fields: {
+                    
+               
+	          SENSOR_ID: {
+	            path: "SENSOR_ID",
+	            type: String
+	          },
+	          SENSOR_NODE_ID: {
+	            path: "SENSOR_NODE_ID",
+	            type: String
+	          },
+	          SENSOR_CONTROL_NODE_ID: {
+	            path: "SENSOR_CONTROL_NODE_ID",
+	            type: String
+	          },
+	          TRUCK_ID: {
+	            path: "TRUCK_ID",
+	            type: String
+	          },
+	          TYPE: {
+	            path: "TYPE",
+	            type: Number
+	          },
+	          SENSOR_STATUS: {
+	            path: "SENSOR_STATUS",
+	            type: Boolean
+	          }    
+                    }
+                }
+            },
+             selection:true,
+            sorting: {
+                    multiple: true                   
+                },
+                paging: {
+                    pageSize: 7,
+                    pageLinksCount: 4
+                },
+            rowHover: false,
+            columns:  [{
+      field: "SENSOR_ID",
+      title: "SENSOR_ID",
+      width: "40px"
+    }, {
+      field: "SENSOR_NODE_ID",
+      title: "SENSOR_NODE_ID",
+      width: "50px"
+    }, {
+      field: "SENSOR_CONTROL_NODE_ID",
+      title: "SENSOR_CONTROL_NODE_ID",
+      width: "75px"
+    }, {
+      field: "TRUCK_ID",
+      title: "TRUCK_ID",
+      width: "35px"
+    }, 
+    {
+      field: "TYPE",
+      title: "TYPE",
+      width: "20px"
+    },
+    {
+      field: "SENSOR_STATUS",
+      title: "SENSOR_STATUS",
+      width: "20px"
+    }
+     
+    ],
+            events: {
+                selectionChanged: function (e) {
+                    var grid = $("#grid").swidget(),
+                        index = grid.contentTable.find(".sui-selected").get(0).rowIndex,
+                        item = grid.dataItem(index);
+                    $("#SENSOR_ID").swidget().value(item.SENSOR_ID);
+                    $("#SENSOR_NODE_ID").swidget().value(item.SENSOR_NODE_ID);
+                    $("#SENSOR_CONTROL_NODE_ID").swidget().value(item.SENSOR_CONTROL_NODE_ID);
+                    $("#TRUCK_ID").swidget().value(item.TRUCK_ID);
+                    $("#TYPE").swidget().value(item.TYPE);
+                    $("#SENSOR_STATUS").swidget().checked(item.SENSOR_STATUS);
+                    
+                    $("#SENSOR_ID").swidget().enabled(false);
+                    $("#SENSOR_NODE_ID").swidget().enabled(false);
+                    $("#SENSOR_CONTROL_NODE_ID").swidget().enabled(false);
+                    $("#TRUCK_ID").swidget().enabled(false);
+                    $("#TYPE").swidget().enabled(false);
+                    $("#SENSOR_STATUS").swidget().enabled(true);
+                    $("#save").swidget().enabled(true);
+                    
+                }
+            }
+        });
+        $("#SENSOR_ID").shieldTextBox({
+            enabled: false
+        });
+        $("#SENSOR_NODE_ID").shieldTextBox({
+            enabled: false
+        });
+        $("#SENSOR_CONTROL_NODE_ID").shieldTextBox({
+            enabled: false
+        });
+         $("#TRUCK_ID").shieldTextBox({
+            enabled: false
+        });
+         $("#TYPE").shieldTextBox({
+            enabled: false
+        });
+        $("#SENSOR_STATUS").shieldCheckBox({
+            enabled: false
+        });
+        $("#save").shieldButton({
+            enabled: false,
+            events: {
+                click: function (e) {
+               
+                    var grid = $("#grid").swidget(),
+                        row = grid.contentTable.find(".sui-selected").get(0),
+                        index = row.rowIndex,
+                        editedItem = grid.dataSource.edit(index).data;
+                    editedItem.SENSOR_ID = $("#SENSOR_ID").swidget().value();
+                    editedItem.SENSOR_NODE_ID = $("#SENSOR_NODE_ID").swidget().value();
+                    editedItem.SENSOR_CONTROL_NODE_ID = $("#SENSOR_CONTROL_NODE_ID").swidget().value();
+                    editedItem.TRUCK_ID = $("#TRUCK_ID").swidget().value();
+                    editedItem.TYPE = $("#TYPE").swidget().value();
+                    editedItem.SENSOR_STATUS = $("#SENSOR_STATUS").swidget().checked();
+                     
+                       $.ajax({
+                                type: 'POST',
+                                url: 'statusChange.php',
+                                data: 'SENSOR_ID=' + editedItem.SENSOR_ID + '&SENSOR_STATUS=' + (editedItem.SENSOR_STATUS?1:0),
+                                success: function(response){
+                                	<!-- alert(response); -->
+                                }
+                                                                                                                            
+				                               
+                            });
+                    grid.saveChanges();
+                    grid.select("tr:eq(" + (index + 2) + ")");
+                   
+                }
+            }
+        });
+    });
+</script>
+<style type="text/css">
+    .sui-button-cell {
+        text-align: center;
+    }
+    #grid {
+        width: 67%;
+        min-height: 229px;
+    }
+    aside {
+        margin: 0;
+        float: right;
+        width: 30%;
+        padding: 5px;
+        background: #fafafa;
+        border: 2px solid #dfdfdf;
+        border-radius: 5px;
+        overflow: auto;
+        min-height: 219px;
+    }
+    .example-content input {
+        margin-bottom: 10px;
+    }
+    label {
+        display: inline-block;
+        width: 30%;
+    }
+    #message {
+        display: block;
+        color: red;
+        width: auto;
+        margin-bottom: 10px;
+    }
+    #save img {
+        vertical-align: bottom;
+        margin-right: 3px;
+    }
+    .sui-numeric-textbox{
+    	border: 2px solid #000000;
+    },  
+    #name,
+    .sui-checkbox {
+        width: 10.7em;
+        margin-bottom: 10px;
+    }
+    .deleteButton img {
+        margin-right: 3px;
+        vertical-align: bottom;
+    }
+</style>
+</body>
+</html>
